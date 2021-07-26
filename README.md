@@ -1,7 +1,7 @@
 #### Hi there 👋, my name is Evgeniy Dammer :heavy_check_mark:
 
 ### Get in touch: 
-- [LinkedIn](https://www.linkedin.com/in/evgeniydammer/)
+- [LinkedIn](https://linkedin.com/in/evgeniydammer/)
 <!-- - [Telegram]()
 - [Facebook]() -->
 
