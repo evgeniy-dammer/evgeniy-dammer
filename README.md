@@ -1,4 +1,9 @@
-### Hi there 👋, my name is Evgeniy Dammer :heavy_check_mark:
+#### Hi there 👋, my name is Evgeniy Dammer :heavy_check_mark:
+
+### Get in touch: 
+- [LinkedIn](https://www.linkedin.com/in/evgeniydammer/)
+<!-- - [Telegram]()
+- [Facebook]() -->
 
 <!--
 **evgeniy-dammer/evgeniy-dammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
