@@ -61,7 +61,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/> 
   </a> 
   <a href="https://www.jetbrains.com/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="jetbrains" width="40" height="40"/> 
   </a> 
   <a href="https://www.jetbrains.com/ru-ru/phpstorm/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" width="40" height="40"/> 
