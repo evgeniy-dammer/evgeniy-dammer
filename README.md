@@ -1,13 +1,14 @@
-# Hi there 👋, my name is Evgeniy Dammer :heavy_check_mark:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sans-serif&color=c9d1d9&size=36&width=900&height=60&lines=Hi+there%F0%9F%91%8B%2C+my+name+is+Evgeniy+Dammer+++++++++++++)](https://git.io/typing-svg)
+
+<br>
+<div align="right">
+  <em>"But we are hackers and hackers have terminals with green font colors."</em> <br>
+  <em>- John Nunemaker</em>
+</div>
+<br>
 
 ### Skills
 <p align="left"> 
-  <a href="https://github.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
   <a href="https://golang.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="40" height="40"/>
   </a> 
@@ -59,38 +60,55 @@
   <a href="https://www.apache.org/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/> 
   </a> 
+  <a href="https://www.jetbrains.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.jetbrains.com/ru-ru/phpstorm/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" width="40" height="40"/> 
+  </a> 
+  <a href="https://visualstudio.microsoft.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> 
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+  </a>
+  <a href="https://github.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://www.sourcetreeapp.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="40" height="40"/> 
+  </a>
   <a href="https://www.sap.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="sap" width="40" height="40"/> 
   </a> 
 </p>
 
-
-
 ### GitHub stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evgeniy-dammer&show_icons=true&theme=dark&count_private=true&include_all_commits=true) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evgeniy-dammer&show_icons=true&icon_color=238636&border_color=238636&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9&count_private=true&include_all_commits=true) 
+
+### GitHub streak stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=evgeniy-dammer&dates=9F9F9F&background=0d1117&border=238636&stroke=238636&ring=238636&fire=238636&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9)](https://git.io/streak-stats)
 
 ### GitHub profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=evgeniy-dammer&theme=alduin&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=evgeniy-dammer&theme=onestar&margin-w=20&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Get in touch: 
-- [LinkedIn](https://linkedin.com/in/evgeniydammer/)
-- [Telegram](https://t.me/evgeniydammer/)
-- [Facebook](https://facebook.com/evgeniydammer/)
+<p align="left"> 
+  <a href="https://linkedin.com/in/evgeniydammer/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/>
+  </a> 
+  <a href="https://t.me/evgeniydammer/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="telegram" width="40" height="40"/>
+  </a> 
+  <a href="https://facebook.com/evgeniydammer/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="facebook" width="40" height="40"/>
+  </a> 
+  <a href="https://join.skype.com/invite/dORB4buX4Kq3" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/skype/skype-tile.svg" alt="facebook" width="40" height="40"/>
+  </a> 
+</p>
 
-
-
-
-<!--
-**evgeniy-dammer/evgeniy-dammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=your-evgeniy-dammer&color=238636)
