@@ -1,9 +1,15 @@
 # Hi there 👋, my name is Evgeniy Dammer :heavy_check_mark:
 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evgeniy-dammer&show_icons=true&theme=dark)
+
+
+
 ### Get in touch: 
 - [LinkedIn](https://linkedin.com/in/evgeniydammer/)
-<!-- - [Telegram]()
-- [Facebook]() -->
+- [Telegram](https://t.me/evgeniydammer/)
+- [Facebook](https://facebook.com/evgeniydammer/)
 
 <!--
 **evgeniy-dammer/evgeniy-dammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
