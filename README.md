@@ -81,6 +81,9 @@
   <a href="https://www.sourcetreeapp.com/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="40" height="40"/> 
   </a>
+  <a href="https://www.postman.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a>
   <a href="https://www.sap.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="sap" width="40" height="40"/> 
   </a> 
