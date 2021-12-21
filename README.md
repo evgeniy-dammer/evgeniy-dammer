@@ -112,6 +112,9 @@
   <a href="https://join.skype.com/invite/dORB4buX4Kq3" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/skype/skype-tile.svg" alt="facebook" width="40" height="40"/>
   </a> 
+  <a href="https://stepik.org/users/45093788" target="_blank"> 
+    <img src="https://avatars.githubusercontent.com/u/6727350?s=200&v=4" alt="stepik" width="40" height="40"/>
+  </a> 
 </p>
 
 ![](https://komarev.com/ghpvc/?username=your-evgeniy-dammer&color=238636)
