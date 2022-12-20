@@ -12,15 +12,18 @@
   <a href="https://golang.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="40" height="40"/>
   </a> 
+  <a href="https://docker.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
+  </a> 
+  <a href="https://elastic.co/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="docker" width="40" height="40"/>
+  </a> 
   <a href="https://dart.dev/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
   </a> 
   <a href="https://flutter.dev/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a> 
-  <a href="https://www.android.com/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
-  </a>
   <a href="https://www.php.net/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a> 
@@ -54,32 +57,11 @@
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
   </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="microsoftsqlserver" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.apache.org/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.jetbrains.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="jetbrains" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.jetbrains.com/ru-ru/phpstorm/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" width="40" height="40"/> 
-  </a> 
-  <a href="https://visualstudio.microsoft.com/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> 
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
-  </a>
   <a href="https://github.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.sourcetreeapp.com/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="40" height="40"/> 
   </a>
   <a href="https://www.postman.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
