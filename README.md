@@ -72,7 +72,7 @@
 </p>
 
 ### GitHub stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evgeniy-dammer&show_icons=true&icon_color=238636&border_color=238636&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9&count_private=true&include_all_commits=true) 
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=evgeniy-dammer&show_icons=true&icon_color=238636&border_color=238636&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9&count_private=true&include_all_commits=true) 
 
 ### GitHub streak stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=evgeniy-dammer&dates=9F9F9F&background=0d1117&border=238636&stroke=238636&ring=238636&fire=238636&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9)](https://git.io/streak-stats)
