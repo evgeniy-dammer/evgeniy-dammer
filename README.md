@@ -16,22 +16,6 @@ outside PCI scope.
 company repositories**, so what is public here is side projects rather than the systems described
 above.
 
-### Worth looking at
-
-- **[marketplace-api](https://github.com/evgeniy-dammer/marketplace-api)** — Go REST API. JWT auth
-  with a refresh-token whitelist, HashiCorp Vault for secrets, a SQL builder over the Postgres
-  repositories, Jaeger tracing, Docker Compose, GitHub Actions CI.
-- **[blockchain](https://github.com/evgeniy-dammer/blockchain)** — a modular blockchain
-  implementation in Go.
-- **[clean-architecture](https://github.com/evgeniy-dammer/clean-architecture)** — reference layout
-  for a Go service with transport, business logic and persistence kept separate.
-- **[ecommerce](https://github.com/evgeniy-dammer/ecommerce)** — TypeScript service, with its
-  contracts in a separate repository.
-
-Upstream: a documentation contribution to
-[apache/casbin-pg-adapter](https://github.com/apache/casbin-pg-adapter) explaining how to reuse an
-existing database connection — written after running into the gap while using Casbin in production.
-
 ### Stack
 
 Go, go-zero, gRPC, PostgreSQL, MySQL, Redis, DragonflyDB, Kafka, ClickHouse, MinIO, etcd,
