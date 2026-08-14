@@ -1,6 +1,4 @@
-## Evgeniy Dammer
-
-Senior backend engineer, Go. High-load microservices — messaging, video streaming, payments.
+## Senior backend engineer, Go. High-load microservices — messaging, video streaming, payments.
 
 I joined a messaging platform as its sole backend engineer while the acquired backend was crashing
 roughly every four hours, and rebuilt it into 60+ Go microservices serving 700K registered users,
